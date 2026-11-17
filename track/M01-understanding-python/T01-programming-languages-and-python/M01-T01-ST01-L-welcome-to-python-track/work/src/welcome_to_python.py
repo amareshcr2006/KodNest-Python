@@ -1,1 +1,1 @@
-#write you code here
+print("welcome to our first class")
